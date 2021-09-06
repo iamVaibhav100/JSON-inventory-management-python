@@ -1,0 +1,33 @@
+{
+  "dettolhandwash": {
+  "id": "001", "price": 80, "quantity": 30}, "haldirambhujia": {
+  "id": "002", "Price": 30, "quantity": 100}, "haldiramchanna": {
+  "id": "003", "Price": 35, "quantity": 90}, "bicanobhujia": {
+  "id": "004", "Price": 25, "quantity": 100}, "bicanochanna": {
+  "id": "005", "Price": 30, "quantity": 80}, "bourbonbiscuits": {
+  "id": "006", "Price": 20, "quantity": 80}, "oreobiscuits": {
+  "id": "007", "Price": 30, "quantity": 100}, "gooddaybiscuits": {
+  "id": "008", "Price": 20, "quantity": 70}, "oatmealbiscuits": {
+  "id": "009", "Price": 50, "quantity": 90}, "raisins": {
+  "id": "010", "Price": 200, "quantity": 500}, "mixedfruitjam": {
+  "id": "011", "Price": 135, "quantity": 90}, "mangojam": {
+  "id": "012", "Price": 130, "quantity": 100}, "blueberryjam": {
+  "id": "013", "Price": 160, "quantity": 50}, "magginoodles": {
+  "id": "014", "Price": 40, "quantity": 500}, "schezwanchutney": {
+  "id": "015", "Price": 15, "quantity": 100}, "chingsnoodles": {
+  "id": "016", "Price": 20, "quantity": 70}, "saffolaoats": {
+  "id": "017", "Price": 120, "quantity": 90}, "kitkat": {
+  "id": "018", "Price": 50, "quantity": 50}, "kelloggsoats": {
+  "id": "019", "Price": 75, "quantity": 90}, "kelloggsmuesli": {
+  "id": "020", "Price": 200, "quantity": 70}, "peanutbutter": {
+  "id": "021", "Price": 160, "quantity": 80}, "dryfruits": {
+  "id": "022", "Price": 500, "quantity": 120}, "henzketchup": {
+  "id": "023", "Price": 30, "quantity": 100}, "kissanketchup": {
+  "id": "024", "Price": 15, "quantity": 70}, "maggiketchup": {
+  "id": "025", "Price": 30, "quantity": 90}, "toothbrush": {
+  "id": "026", "Price": 20, "quantity": 100}, "toothpaste": {
+  "id": "027", "Price": 90, "quantity": 90}, "morteinrefil": {
+  "id": "028", "Price": 100, "quantity": 100}, "hitspray": {
+  "id": "029", "Price": 100, "quantity": 50}, "odomospaste": {
+  "id": "030", "Price": 40, "quantity": 20}
+}
